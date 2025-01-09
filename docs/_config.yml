@@ -31,7 +31,7 @@ url: https://www.tudelft.nl/en/staff/m.a.zagorowska/ # the base hostname & proto
 # theme: minima
 remote_theme: alshedivat/al-folio
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
