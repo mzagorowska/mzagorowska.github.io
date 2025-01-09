@@ -7,4 +7,4 @@ layout: home
 
 ![Photo](/assets/martaz2023.jpg)
 
-I am an [assistant professor at the Department of Systems and Control](https://www.tudelft.nl/staff/m.a.zagorowska/?cHash=4017a62fa79f9af7327d078544a99c2f) at TU Delft in the Netherlands.
+I am an [assistant professor at the Delft Center for Systems and Control](https://www.tudelft.nl/staff/m.a.zagorowska/?cHash=4017a62fa79f9af7327d078544a99c2f) at TU Delft in the Netherlands.
