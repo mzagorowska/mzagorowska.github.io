@@ -5,4 +5,5 @@
 layout: home
 ---
 
+![Photo](/assets/martaz2023.jpg)
 Here be dragons
