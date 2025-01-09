@@ -25,8 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.tudelft.nl/en/staff/m.a.zagorowska/ # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  mzagorowska
-linkedin_username: marta-zagorowska-44950b58
-orcid: 0000-0001-8523-5252
+linkedin_username: marta-zagorowska
 
 # Build settings
 theme: minima
