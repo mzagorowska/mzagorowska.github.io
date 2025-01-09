@@ -21,7 +21,6 @@
 title: Marta Zagorowska
 email: m.a.zagorowska@tudelft.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  TBD
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.tudelft.nl/en/staff/m.a.zagorowska/ # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
