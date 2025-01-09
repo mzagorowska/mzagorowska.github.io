@@ -28,9 +28,11 @@ url: https://www.tudelft.nl/en/staff/m.a.zagorowska/ # the base hostname & proto
 # linkedin_username: marta-zagorowska-44950b58
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
