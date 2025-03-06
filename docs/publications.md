@@ -8,20 +8,7 @@ Please check my [Google scholar profile](https://scholar.google.com/citations?hl
 
 Journal publications:
 
-<html>
-<head>
-<title>Journal publications</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<style type="text/css">
-body { font-size: 12px; font-family: Arial, sans-serif; }
-dt { margin-top: 1em; font-weight: bold; }
-@media print {
-	dt { page-break-after: avoid; }
-	dd { page-break-before: avoid; }
-}
-</style>
-</head>
-<body>
+
 <dl>
 <dd>Mohd Noor, I., Dawidowski, P., Ottewill, J. R., Haugen, T., Zagorowska, M. A. and Thornhill, N. F.</dd>
 <dd><i>Electrical power management by flexible operation of a continuous gas export plant</i></dd>
@@ -80,5 +67,3 @@ dt { margin-top: 1em; font-weight: bold; }
 <dd>Engineering Applications of Artificial Intelligence, <b>2025</b>, Vol. 143, pp. 109894</dd>
 
 </dl>
-</body>
-</html>
