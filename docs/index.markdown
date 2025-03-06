@@ -6,8 +6,8 @@ layout: home
 ---
 
 <!-- ![Photo](/assets/martaz2023.jpg) -->
-<img align="left" src="/assets/FunPhoto.jpg" alt="My Image"  hspace="10"> ### Marta Zagorowska
-####Assistant professor at TU Delft
+<img align="left" src="/assets/FunPhoto.jpg" alt="My Image"  hspace="10"> <h3>Marta Zagorowska</h3>
+<h4>Assistant professor at TU Delft</h4>
 
 <!-- **Current position**: TU Delft (DCSC) -->
 
