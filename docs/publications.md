@@ -283,15 +283,15 @@ Elektronika ir Elektrotechnika, 2015, Vol. 21(2), pp. 10-13</li>
 <ol>
 
 <li>O’Dwyer, E., Atam, E., Falugi, P., Kerrigan, E. C., <b>Zagorowska</b>, M. A. and Shah, N.
-<i>A modelling workflow for predictive control in residential buildings</i>
-Vahidinasab, V. &amp; Mohammadi-Ivatloo, B. <i>(ed.)</i>
-Active Building Energy Systems: Operation and Control
+        <i>A modelling workflow for predictive control in residential buildings</i>
+        Vahidinasab, V. &amp; Mohammadi-Ivatloo, B. <i>(ed.)</i>
+        Active Building Energy Systems: Operation and Control
 Springer, 2020</li>
 
 <li>Falugi, P., Kerrigan, E. C., O'Dwyer, E., <b>Zagorowska</b>, M. A., Atam, E., Strbac, G. and Shah, N.
-<i>MPC and optimal design of residential buildings with seasonal storage: A case study</i>
-Vahidinasab, V. &amp; Mohammadi-Ivatloo, B. <i>(ed.)</i>
-Active Building Energy Systems: Operation and Control
+    <i>MPC and optimal design of residential buildings with seasonal storage: A case study</i>
+    Vahidinasab, V. &amp; Mohammadi-Ivatloo, B. <i>(ed.)</i>
+    Active Building Energy Systems: Operation and Control
 Springer, 2020</li>
 
 </ol>
