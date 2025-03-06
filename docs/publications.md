@@ -327,7 +327,7 @@ Elektronika ir Elektrotechnika, 2015, Vol. 21(2), pp. 10-13</li>
 
 </ol>
 
-
+<!-- 
 **Other (refereed)**
 <ol>
 <li>O’Dwyer, E., Atam, E., Falugi, P., Kerrigan, E. C., <b>Zagorowska</b>, M. A. and Shah, N.
@@ -343,6 +343,6 @@ Active Building Energy Systems: Operation and Control
 Springer, 2020</li>
 
 </ol>
-
+ -->
 
 Please check also my [Google scholar profile](https://scholar.google.com/citations?hl=nl&user=4y7gNisAAAAJ&view_op=list_works&sortby=pubdate)
