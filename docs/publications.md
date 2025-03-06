@@ -81,15 +81,15 @@ Elektronika ir Elektrotechnika, <b>2015</b>, Vol. 21(2), pp. 10-13</li>
 
     <li>Dong, L., Zagorowska, M., Liu, T., Durkin, A. and Mercang&ouml;z, M.
         <i>PI-CoF: A Bilevel Optimization Framework for Solving Active Learning Problems using Physics-Information</i>
-        The 8th IEEE Conference on Control Technology and Applications (CCTA)
+        The 8th IEEE Conference on Control Technology and Applications (CCTA)    <b>2024</b>
+
     </li>
-    <b>2024</b>
 
     <li>Bauer, W., Zagorowska, M. and Baranowski, J.
         <i>Detection of Electric Motor Damage Through Analysis of Sound Signals Using Bayesian Neural Networks</i>
-        The 50th Annual Conference of the IEEE Industrial Electronics Society (IECON)
+        The 50th Annual Conference of the IEEE Industrial Electronics Society (IECON) <b>2024</b>
+
     </li>
-    <b>2024</b>
 
     <li>Behrunani, V., Zagorowska, M., de Badyn, M. H., Ricca, F., Heer, P. and Lygeros, J.
         <i>Degradation-aware data-enabled predictive control of energy hubs</i>
@@ -166,6 +166,7 @@ Elektronika ir Elektrotechnika, <b>2015</b>, Vol. 21(2), pp. 10-13</li>
         IEEE Conference on Control Technology and Applications CCTA
         IEEE, <b>2018</b>
     </li>
+
     <li>Zagorowska, M. and Thornhill, N.
         <i>Compressor Map Approximation Using Chebyshev Polynomials</i>
         25th Mediterranean Conference on Control and Automation MED
@@ -180,7 +181,7 @@ Elektronika ir Elektrotechnika, <b>2015</b>, Vol. 21(2), pp. 10-13</li>
         Springer, <b>2017</b>, pp. 307-317
     </li>
 
-    <li>Baranowski, J., Bauer, W., Zag&oacute;rowska, M., Kawala-Janik, A., Dziwi&#329;ski, T. and Pi&aogon;tek, P.
+    <li>Baranowski, J., Bauer, W., Zag&oacute;rowska, M., Kawala-Janik, A., Dziwi&#324;ski, T. and Pi&aogon;tek, P.
         <i>Adaptive non-integer controller for water tank system</i>
         Domek S., D. P. <i>(ed.)</i>
         Theoretical Developments and Applications of Non-Integer Order Systems
@@ -225,41 +226,41 @@ Elektronika ir Elektrotechnika, <b>2015</b>, Vol. 21(2), pp. 10-13</li>
         IEEE, <b>{2015}</b>, pp. 638-642
     </li>
 
-    <li>Zag&oacute;rowska, M., Baranowski, J., Bania, P., Bauer, W., Dziwi&#329;ski, T. and Pi&aogon;tek, P.
+    <li>Zag&oacute;rowska, M., Baranowski, J., Bania, P., Bauer, W., Dziwi&#324;ski, T. and Pi&aogon;tek, P.
         <i>Parametric optimization of PD^&alpha; controller using Laguerre function approximation</i>
         2015 20th International Conference on Methods and Models in Automation and Robotics MMAR
         IEEE, <b>2015</b>, pp. 104-109
     </li>
 
-    <li>Dziwi&#329;ski, T., Pi&aogon;tek, P., Baranowski, J., Bauer, W. and Zag&oacute;rowska, M.
+    <li>Dziwi&#324;ski, T., Pi&aogon;tek, P., Baranowski, J., Bauer, W. and Zag&oacute;rowska, M.
         <i>On the practical implementation of non-integer order filters</i>
         2015 20th International Conference on Methods and Models in Automation and Robotics MMAR
         IEEE, <b>2015</b>, pp. 921-924
     </li>
 
 
-    <li>Baranowski, J., Pi&aogon;tek, P., Kawala-Janik, A., Zag&oacute;rowska, M., Bauer, W. and Dziwi&#329;ski, T.
+    <li>Baranowski, J., Pi&aogon;tek, P., Kawala-Janik, A., Zag&oacute;rowska, M., Bauer, W. and Dziwi&#324;ski, T.
         <i>Non-integer Order Filtration of Electromyographic Signals</i>
         Latawiec, K. J., &Lstrok;ukaniszyn, M. &amp; Stanis&lstrok;awski, R. <i>(ed.)</i>
         Advances in Modelling and Control of Non-integer-Order Systems
         Springer International Publishing, <b>2015</b>, Vol. 320, pp. 231-237
     </li>
 
-    <li>Bauer, W., Dziwi&#329;ski, T., Baranowski, J., Pi&aogon;tek, P. and Zag&oacute;rowska, M.
+    <li>Bauer, W., Dziwi&#324;ski, T., Baranowski, J., Pi&aogon;tek, P. and Zag&oacute;rowska, M.
         <i>Comparison of Performance Indices for Tuning of PI^&lambda;D ^&mu; Controller for Magnetic Levitation
             System</i>
         Advances in Modelling and Control of Non-integer Order Systems
         Springer, <b>2015</b>, pp. 125-133
     </li>
 
-    <li>Pi&aogon;tek, P., Baranowski, J., Zag&oacute;rowska, M., Bauer, W. and Dziwi&#329;ski, T.
+    <li>Pi&aogon;tek, P., Baranowski, J., Zag&oacute;rowska, M., Bauer, W. and Dziwi&#324;ski, T.
         <i>Bi-Fractional Filters, Part 1: Left Half-Plane Case</i>
         Latawiec, K. J., &Lstrok;ukaniszyn, M. &amp; Stanis&lstrok;awski, R. <i>(ed.)</i>
         Advances in Modelling and Control of Non-integer-Order Systems
         Springer International Publishing, <b>2015</b>, pp. 81-90
     </li>
 
-    <li>Zag&oacute;rowska, M., Baranowski, J., Bauer, W., Dziwi&#329;ski, T., Pi&aogon;tek, P. and Mitkowski, W.
+    <li>Zag&oacute;rowska, M., Baranowski, J., Bauer, W., Dziwi&#324;ski, T., Pi&aogon;tek, P. and Mitkowski, W.
         <i>Lyapunov Direct Method for Non-integer Order Systems</i>
         Latawiec, K. J., &Lstrok;ukaniszyn, M. &amp; Stanis&lstrok;awski, R. <i>(ed.)</i>
         Advances in Modelling and Control of Non-integer-Order Systems
@@ -273,17 +274,18 @@ Elektronika ir Elektrotechnika, <b>2015</b>, Vol. 21(2), pp. 10-13</li>
         Springer International Publishing, <b>2015</b>, pp. 113-122
     </li>
 
-    <li>Dziwi&#329;ski, T., Bauer, W., Baranowski, J., Pi&aogon;tek, P. and Zag&oacute;rowska, M.
+    <li>Dziwi&#324;ski, T., Bauer, W., Baranowski, J., Pi&aogon;tek, P. and Zag&oacute;rowska, M.
         <i>Robust Non-integer Order Controller for Air Heating Process Trainer</i>
         Latawiec, K. J., &Lstrok;ukaniszyn, M. &amp; Stanis&lstrok;awski, R. <i>(ed.)</i>
         Advances in Modelling and Control of Non-integer-Order Systems
         Springer International Publishing, <b>2015</b>, pp. 249-256
     </li>
 
-    Baranowski, J., Bauer, W., Zag&oacute;rowska, M., Dziwi&#329;ski, T. and Pi&aogon;tek, P.
+    <li> Baranowski, J., Bauer, W., Zag&oacute;rowska, M., Dziwi&#324;ski, T. and Pi&aogon;tek, P.
     <i>Time-domain Oustaloup approximation</i>
     2015 20th International Conference on Methods and Models in Automation and Robotics MMAR
-    <li>IEEE, <b>2015</b>, pp. 116-120</li>
+    IEEE, <b>2015</b>, pp. 116-120
+    </li>
 
 
     <li>Grela, M., Kulesza, K., Zag&oacute;rowska, M. and Zio&lstrok;o, P.
@@ -293,31 +295,31 @@ Elektronika ir Elektrotechnika, <b>2015</b>, Vol. 21(2), pp. 10-13</li>
     </li>
 
 
-    <li>Pi&aogon;tek, P., Zag&oacute;rowska, M., Baranowski, J., Bauer, W. and Dziwi&#329;ski, T.
+    <li>Pi&aogon;tek, P., Zag&oacute;rowska, M., Baranowski, J., Bauer, W. and Dziwi&#324;ski, T.
         <i>Discretisation of different non-integer order system approximations</i>
         2014 19th International Conference on Methods and Models in Automation and Robotics MMAR
         IEEE, <b>2014</b>, pp. 429-433
     </li>
 
-    <li>Zag&oacute;rowska, M., Baranowski, J., Bauer, W., Dziwi&#329;ski, T. and Pi&aogon;tek, P.
+    <li>Zag&oacute;rowska, M., Baranowski, J., Bauer, W., Dziwi&#324;ski, T. and Pi&aogon;tek, P.
         <i>Simulational analysis of non-integer order system behaviour under relay control</i>
         2014 19th International Conference on Methods and Models in Automation and Robotics MMAR
         IEEE, <b>2014</b>, pp. 374-378
     </li>
 
-    <li>Baranowski, J., Pi&aogon;tek, P., Bauer, W., Dziwi&#329;ski, T. and Zag&oacute;rowska, M.
+    <li>Baranowski, J., Pi&aogon;tek, P., Bauer, W., Dziwi&#324;ski, T. and Zag&oacute;rowska, M.
         <i>Bi-fractional filters, part 2: Right half-plane case</i>
         2014 19th International Conference on Methods and Models in Automation and Robotics MMAR
         IEEE, <b>2014</b>, pp. 369-373
     </li>
 
-    <li>Dziwi&#329;ski, T., Bauer, W., Baranowski, J., Pi&aogon;tek, P. and Zag&oacute;rowska, M.
+    <li>Dziwi&#324;ski, T., Bauer, W., Baranowski, J., Pi&aogon;tek, P. and Zag&oacute;rowska, M.
         <i>Robust non-integer order controller for air heater</i>
         2014 19th International Conference on Methods and Models in Automation and Robotics MMAR
         IEEE, <b>2014</b>, pp. 434-438
     </li>
 
-    <li>Baranowski, J., Zag&oacute;rowska, M., Bania, P., Bauer, W., Dziwi&#329;ski, T. and Pi&aogon;tek, P.
+    <li>Baranowski, J., Zag&oacute;rowska, M., Bania, P., Bauer, W., Dziwi&#324;ski, T. and Pi&aogon;tek, P.
         <i>Impulse response approximation method for bi-fractional filter</i>
         2014 19th International Conference on Methods and Models in Automation and Robotics MMAR
         IEEE, <b>2014</b>, pp. 379-383
