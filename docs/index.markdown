@@ -7,12 +7,13 @@ layout: home
 
 <!-- ![Photo](/assets/martaz2023.jpg) -->
 <img align="left" src="/assets/FunPhoto.jpg" alt="My Image"  hspace="10"> **Marta Zagorowska**
+
 **Assistant professor at TU Delft**
+<ul>
+<li>**Post-doc**: Imperial College London (Chemical Engineering, Electrical and Electronic Engineering), ETH Zurich (IfA), NTNU (Engineering Cybernetics)</li>
 
-**Post-doc**: Imperial College London (Chemical Engineering, Electrical and Electronic Engineering), ETH Zurich (IfA), NTNU (Engineering Cybernetics)
-
-**PhD**: Imperial College London (Chemical Engineering)
-
+<li>**PhD**: Imperial College London (Chemical Engineering)</li>
+</ul>
 **Areas of expertise**: Optimization, control, process systems engineering
 
 **University website**: [DCSC](https://www.tudelft.nl/staff/m.a.zagorowska/?cHash=4017a62fa79f9af7327d078544a99c2f)
