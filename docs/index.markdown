@@ -6,7 +6,7 @@ layout: home
 ---
 
 <!-- ![Photo](/assets/martaz2023.jpg) -->
-<img align="left" src="/assets/FunPhoto.jpg" alt="My Image"> **Current position**: [assistant professor at the Delft Center for Systems and Control](https://www.tudelft.nl/staff/m.a.zagorowska/?cHash=4017a62fa79f9af7327d078544a99c2f)
+<img align="left" src="/assets/FunPhoto.jpg" alt="My Image"  hspace="10"> **Current position**: [assistant professor at the Delft Center for Systems and Control](https://www.tudelft.nl/staff/m.a.zagorowska/?cHash=4017a62fa79f9af7327d078544a99c2f)
 
 **Post-doc**: Imperial College London, ETH Zurich, NTNU
 
