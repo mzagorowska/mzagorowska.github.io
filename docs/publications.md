@@ -109,8 +109,7 @@ Elektronika ir Elektrotechnika, 2015, Vol. 21(2), pp. 10-13</li>
     <li>Ahmed, A., <b>Zagorowska</b>, M., del Rio-Chanona, E. A. and Mercangöz, M.
     <i>Application of Gaussian Processes to online approximation of compressor maps for load-sharing in a compressor
         station</i>
-    2022 European Control Conference (ECC)
-    <li>2022</li>
+    2022 European Control Conference (ECC) 2022</li>
     <li>Borghesan, F., <b>Zagorowska</b>, M. and Mercangöz, M.
         <i>Unmanned and Autonomous Systems: Future of Automation in Process and Energy Industries</i>
         13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems DYCOPS 2022
@@ -278,7 +277,7 @@ Elektronika ir Elektrotechnika, 2015, Vol. 21(2), pp. 10-13</li>
     </li>
 </ol>
 
-<!-- 
+
 **Other (refereed)**
 <ol>
 
@@ -295,6 +294,6 @@ Elektronika ir Elektrotechnika, 2015, Vol. 21(2), pp. 10-13</li>
         Springer, 2020
     </li>
 
-</ol> -->
+</ol>
 
 Please check also my [Google scholar profile](https://scholar.google.com/citations?hl=nl&user=4y7gNisAAAAJ&view_op=list_works&sortby=pubdate)
