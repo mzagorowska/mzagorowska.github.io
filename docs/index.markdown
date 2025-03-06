@@ -9,8 +9,6 @@ layout: home
 <img align="left" src="/assets/FunPhoto.jpg" alt="My Image"  hspace="10"> <h3>Marta Zagorowska</h3>
 <h4>Assistant professor at TU Delft</h4>
 
-<!-- **Current position**: TU Delft (DCSC) -->
-
 **Post-doc**: Imperial College London (Chemical Engineering, Electrical and Electronic Engineering), ETH Zurich (IfA), NTNU (Engineering Cybernetics)
 
 **PhD**: Imperial College London (Chemical Engineering)
