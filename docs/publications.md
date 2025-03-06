@@ -10,7 +10,7 @@ Journal publications:
 
 
 <dl>
-<dd>Mohd Noor, I., Dawidowski, P., Ottewill, J. R., Haugen, T., Zagorowska, M. A. and Thornhill, N. F.</dd>
+<dt>Mohd Noor, I., Dawidowski, P., Ottewill, J. R., Haugen, T., Zagorowska, M. A. and Thornhill, N. F.</dt>
 <dd><i>Electrical power management by flexible operation of a continuous gas export plant</i></dd>
 <dd>IEEE Access, Institute of Electrical and Electronics Engineers (IEEE), <b>2024</b>, pp. 139411-139426</dd>
 
