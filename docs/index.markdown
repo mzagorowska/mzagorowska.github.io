@@ -6,9 +6,7 @@ layout: home
 ---
 
 <!-- ![Photo](/assets/martaz2023.jpg) -->
-<img align="left" src="/assets/FunPhoto.jpg" alt="My Image"  hspace="20"> **Marta Zagorowska**
-
-**Assistant professor at TU Delft**
+<img align="left" src="/assets/FunPhoto.jpg" alt="My Image"  hspace="20"> **Assistant professor at TU Delft**
 
 Previously:
 <ul>
