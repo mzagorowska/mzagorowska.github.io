@@ -10,9 +10,9 @@ layout: home
 
 **Assistant professor at TU Delft**
 <ul>
-<li>**Post-doc**: Imperial College London (Chemical Engineering, Electrical and Electronic Engineering), ETH Zurich (IfA), NTNU (Engineering Cybernetics)</li>
+<li>Post-doc: Imperial College London (Chemical Engineering, Electrical and Electronic Engineering), ETH Zurich (IfA), NTNU (Engineering Cybernetics)</li>
 
-<li>**PhD**: Imperial College London (Chemical Engineering)</li>
+<li>PhD: Imperial College London (Chemical Engineering)</li>
 </ul>
 **Areas of expertise**: Optimization, control, process systems engineering
 
