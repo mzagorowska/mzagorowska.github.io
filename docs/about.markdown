@@ -8,7 +8,7 @@ permalink: /about/
 
 My long-term research vision is motivated by bridging the gap between academia and industry by providing tailored mathematical methods. 
 
-<p style="color:LightGray;">Picture adapted from  <a href="https://commons.wikimedia.org/wiki/File:Blank_Europe_Map.svg/"></a>, CC BY 4.0 Attribution International .</p>
+<p style="color:LightGray;">Picture adapted from  <a href="https://commons.wikimedia.org/wiki/File:Blank_Europe_Map.svg/">Wikimedia</a>, CC BY 4.0 Attribution International .</p>
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 <!-- 
 You can find the source code for Minima at GitHub:
