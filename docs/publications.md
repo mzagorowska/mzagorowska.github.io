@@ -68,6 +68,11 @@ Elektronika ir Elektrotechnika, 2015, Vol. 21(2), pp. 10-13</li>
 
 **Conference publications (refereed)**:
 <ol>
+    <li>Dong, L.; <b>Zagorowska</b>, M. and  Mercangöz, M.
+        <i>Optimizing Parallel Gas Compressor Operations Under Flow Disturbances</i>
+        14th IFAC Symposium on Dynamics and Control of Process Systems Including Biosystems DYCOPS 2025
+        2025, in press
+    </li>
     <li>Li, J., <b>Zagorowska</b>, M., De Pasquale, G., Rupenyan, A. and Lygeros, J.
         <i>Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel</i>
         Proceedings of NeurIPS 2024
