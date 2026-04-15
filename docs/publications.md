@@ -7,6 +7,9 @@ permalink: /publications/
 **Journal publications**:
 
 <ol>
+<li> Falugi, P., O'Dwyer, E., <b>Zagorowska</b>, M., Kerrigan, E., Nie, Y., Strbac, G. and Shah, N.
+<i>Robust co-design framework for buildings operated by predictive control</i>
+Energy and Buildings, 2025, Vol. 346, pp. 116144</li>
 
 <li><b>Zagorowska</b>, M., König, C., Yu, H., Balta, E. C., Rupenyan, A. and Lygeros, J.
 <i>Efficient safe learning for controller tuning with experimental validation</i>
@@ -68,10 +71,34 @@ Elektronika ir Elektrotechnika, 2015, Vol. 21(2), pp. 10-13</li>
 
 **Conference publications (refereed)**:
 <ol>
+    <li>Wang, Y.; <b>Zagorowska</b>, M. and  Ferrari, R. M. G.
+        <i>Capacity Estimation of Lithium-ion Batteries Using Invariance Property in Open Circuit Voltage Relationship</i>
+        IFAC World Congress 2026
+    </li>
+    <li>Dong, L.; <b>Zagorowska</b>, M. and  Mercangöz, M.
+        <i>Bayesian Optimization of a Multi-Product Chemical Reactor Using Composite Models and Partial Physics Knowledge</i>
+        IFAC World Congress 2026
+    </li>
+    <li><b>Zagorowska</b>, M., Ortmann, L., Belgioioso, G., and Imsland, L.
+        <i>Adaptive Tuning of Online Feedback Optimization for Process Control Applications</i>
+        IFAC World Congress 2026
+    </li>
+    <li>Gude, T., <b>Zagorowska</b>, M., Imsland, L.
+        <i>Persistently Exciting Online Feedback Optimization Controller with Minimal Perturbations</i>
+        The 9th IEEE Conference on Control Technology and Applications (CCTA) 2025
+    </li>
+    <li>Jarosz, A., <b>Zagorowska</b>, M., Baranowski, J.
+        <i>The Future of Offshore Wind Energy – Analyzing HVDC and HVAC Solutions</i>
+        The 7th Novel Intelligent and Leading Emerging Sciences Conference (NILES) 2025
+    </li>
+    <li><b>Zagorowska</b>, M., Imsland, L.
+        <i>Sensitivity of Online Feedback Optimization to time-varying parameters</i>
+         European Control Conference (ECC) 2025
+    </li>
     <li>Dong, L.; <b>Zagorowska</b>, M. and  Mercangöz, M.
         <i>Optimizing Parallel Gas Compressor Operations Under Flow Disturbances</i>
         14th IFAC Symposium on Dynamics and Control of Process Systems Including Biosystems DYCOPS 2025
-        2025, in press
+        2025,
     </li>
     <li>Li, J., <b>Zagorowska</b>, M., De Pasquale, G., Rupenyan, A. and Lygeros, J.
         <i>Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel</i>
